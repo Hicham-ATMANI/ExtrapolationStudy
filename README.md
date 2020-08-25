@@ -12,6 +12,6 @@ This code is used for the calibration of the electromagnetic calorimeter (ATLAS 
 
 - Correct data distibutions.
 - Evaluate the correlations betwee bin using bootstrapping.
-- Fit data distributions, the final results output:
+- Fit data distributions, an example of the code output:
 
 <img width="700" alt="Screenshot 2020-08-25 at 14 59 53" src="https://user-images.githubusercontent.com/53044514/91177261-b8c36800-e6e3-11ea-80fc-2509b886622d.png">
