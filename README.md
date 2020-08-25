@@ -8,7 +8,7 @@ root -l Extrapolation/2017/extrapolation.cxx (c++ file)
 What it does:
 ```
 
-This code is used for the calibration of the electromagnetic calorimeter, where it's allows:
+This code is used for the calibration of the electromagnetic calorimeter (ATLAS dectector at CERN), and allows to:
 
 - Correct data distibutions.
 - Evaluate the correlations betwee bin using bootstrapping.
